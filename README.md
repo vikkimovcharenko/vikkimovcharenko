@@ -16,19 +16,19 @@ Business Analyst with over 10 years of experience in ERP implementation and proc
 
 *   **Analysis & Documentation:**
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white)
+![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=plastic&logo=diagrams.net&logoColor=white)
 
 **Data & Reporting:**
 
-![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=plastic&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/excel-%23217346.svg?style=plastic&logo=microsoft-excel&logoColor=white)
 
 **Domain & Technical Background:**
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ###  Let's Connect
 *   **LinkedIn:** www.linkedin.com/in/viktoriia-ovcharenko-68a4ab2b1
